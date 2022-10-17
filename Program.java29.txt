@@ -1,0 +1,25 @@
+public class javaa {
+
+	public static void main(String[] args) {
+		
+
+		
+		int blue = 20;
+		int pink = 30;
+		String Colours;
+		
+		if(blue < pink) {
+			Colours = ("Its a combination of green colour");
+		}
+		else if(blue > pink) {
+			Colours =("Its a  Combination of red colour");
+		}
+		else {
+			Colours = (" Both Colours are beautiful");
+		}
+		
+		System.out.println(Colours);
+		
+	}
+}
+		

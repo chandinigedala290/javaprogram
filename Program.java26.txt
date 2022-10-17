@@ -1,0 +1,19 @@
+public class javaArray {
+
+
+	public static void main(String[] args[]) {
+		// TODO Auto-generated method stub
+		
+            String words[] = new String[99];
+		
+	    words[0] = "Gedala";
+	    words[1] = "Chandini";
+	    words[2] =  "My name";
+	    words[98] = "Hi";
+	    
+	    System.out.println(2);
+		
+
+	}
+
+}

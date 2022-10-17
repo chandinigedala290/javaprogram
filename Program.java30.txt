@@ -1,0 +1,34 @@
+public class Test {
+
+	public static void main(String[] args) {
+   
+			int days = 6;
+			String DaysString;
+			
+	 switch (days)
+	 {
+	 case 1 : DaysString = "Sunday";
+	   break;
+	 case 2 : DaysString = "Monday";
+	   break;
+	 case 3 : DaysString = "Tuesday";
+	   break;
+	 case 4 : DaysString = "Wednesday";
+	   break;
+	 case 5 : DaysString = "Thursday";
+	   break; 
+	 case 6 : DaysString = "Friday";
+	   break; 
+	 case 7 : DaysString = "Saturday";
+	   break;
+	 default : DaysString = "unknown";
+	   break;
+	 }
+	 System.out.println(DaysString);
+		}
+	}
+
+	 
+
+
+ 

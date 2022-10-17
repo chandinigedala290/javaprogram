@@ -1,0 +1,15 @@
+public class methods {
+
+  public static void main(String args[]) {
+		
+		System.out.println("Hi i'm Chandini");
+		Printsome("Hi i'm chandini");
+	}
+		public static void  Printsome(String argument) {
+		System.out.println("Hii i'm chanu"   +argument);
+			
+		}
+		
+	}
+
+	

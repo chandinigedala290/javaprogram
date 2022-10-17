@@ -1,0 +1,16 @@
+public class javaa {
+
+	public static void main(String[] args) {
+		
+		boolean nothungry = false;
+		
+		if(nothungry){
+		System.out.println("I'm not hungry");
+		}
+		else {
+		System.out.println("I'm  starving...");
+		}
+
+	}
+
+}

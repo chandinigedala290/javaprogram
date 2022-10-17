@@ -1,0 +1,24 @@
+public class javaa {
+
+	public static void main(String[] args) {
+	
+		int mathsMarks = 90;
+		int scienceMarks = 70;
+		String Total;
+		
+	    if(mathsMarks > scienceMarks) {
+		Total = "ravi score good marks in maths";
+	    }
+	    else if(mathsMarks < scienceMarks) {
+	    	Total = "ramu score good marks in science";
+	    }
+	    
+	    else {
+	    	Total = "mathsMarks greater than scienceMarks";
+	    }
+	    	
+			System.out.println(Total);		
+		}
+}
+		
+				
